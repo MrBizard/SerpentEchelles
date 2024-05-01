@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9740aed-fbeb-4c37-a110-5696d0043f8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/grp/info/serpentechelles/ModelJeu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/SerpentsEtEchelles.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/SerpentsEtEchelles.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/Serpent-removebg-preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/Serpent-removebg-preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-five.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-five.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-four.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-four.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-one.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-one.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-six.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-six.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-three.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-three.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/dice-six-faces-two.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/dice-six-faces-two.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/imageDeFond.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/imageDeFond.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/images/imageEchelle.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/grp/info/serpentechelles/Image/imageEchelle.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +45,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.SerpentEchelles [:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Maxence",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/SabM/IdeaProjects/SerpentEchelles",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\source\repos\Javafx\SerpentEchelles\src\main\resources\grp\info\serpentechelles" />
+      <recent name="D:\source\repos\Javafx\SerpentEchelles\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="grp.info.serpentechelles.Main" />
+      <module name="SerpentEchelles.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
